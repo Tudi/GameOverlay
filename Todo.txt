@@ -1,0 +1,6 @@
+- add ini loader
+- add mouse handler
+- separate image processing from game specific scripting
+- detect center of action. Lots of things might change on the screen but what should the mouse focus on ?
+- add profiling for aquisition, processing, output
+- add basic behavior selection from ini file : track image changes + focus mouse on moving object + do action on focus

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameOverlay", "GameOverlay.vcproj", "{298DA91B-2AF7-4D1C-9E0F-719F7DB37DFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{298DA91B-2AF7-4D1C-9E0F-719F7DB37DFE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{298DA91B-2AF7-4D1C-9E0F-719F7DB37DFE}.Debug|Win32.Build.0 = Debug|Win32
+		{298DA91B-2AF7-4D1C-9E0F-719F7DB37DFE}.Release|Win32.ActiveCfg = Release|Win32
+		{298DA91B-2AF7-4D1C-9E0F-719F7DB37DFE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
